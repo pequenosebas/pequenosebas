@@ -10,7 +10,7 @@ I got my Computer Systems Engineer, and soon a Master Degree in "Project managem
 <!--- 📫 How to reach me ...--->
 - Programming languages that I currently develop: Java, C++, C#, Web (HTML, CSS, JS, PHP)
 
-- GOALS: Learn and improve my Java knowledge (and another languages) to be a better than ever a programmer
+- GOALS: Learn and improve my Java knowledge (and another languages) to be a better a programmer
   
 ---------------------------------------------  
   
